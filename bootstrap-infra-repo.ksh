@@ -6,7 +6,6 @@ GIT_REPO="ssh://git@stash.softlayer.local:7999/~aennis/git-ops.git"
 GIT_REPO="https://aennis:BBDC-MTU2NDg3NzM4Nzc2Oh98WavC7C2+J6yRHTRuaChk3gHz@stash.softlayer.local/scm/~aennis/git-ops.git"
 GIT_BRANCH="main"
 GIT_USER="ennisa-ire"
-GIT_TOKEN="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"
 
 flux bootstrap github \
 --log-level=debug \
